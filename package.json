@@ -15,6 +15,7 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "install": "next start -p $PORT",
+    "heroku-postbuild": "heroku-nextjs-build"
   }
 }
