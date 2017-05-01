@@ -1,0 +1,8 @@
+{
+    "name": "wrariza",
+    "alias": "wrariza.now.sh",
+    "env": {
+        "NODE_ENV": "production"
+    },
+    "type": "npm"
+}

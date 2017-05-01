@@ -2,7 +2,7 @@
   "name": "wrariza",
   "version": "1.0.0",
   "description": "web wrariza",
-  "main": "index.js",
+  "main": "pages/index.js",
   "repository": "https://github.com/wrariza/wrariza.git",
   "author": "william ariza <skchard09@gmail.com>",
   "license": "MIT",
@@ -13,6 +13,8 @@
     "styled-components": "^1.4.5"
   },
   "scripts": {
-    "dev": "next"
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
   }
 }
