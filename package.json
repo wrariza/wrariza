@@ -1,0 +1,18 @@
+{
+  "name": "wrariza",
+  "version": "1.0.0",
+  "description": "web wrariza",
+  "main": "index.js",
+  "repository": "https://github.com/wrariza/wrariza.git",
+  "author": "william ariza <skchard09@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^2.3.0-alpha1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "styled-components": "^1.4.5"
+  },
+  "scripts": {
+    "dev": "next"
+  }
+}
