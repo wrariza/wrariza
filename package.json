@@ -17,5 +17,11 @@
     "build": "next build",
     "install": "next start -p $PORT",
     "heroku-postbuild": "heroku-nextjs-build"
-  }
+  },
+  "engines": {
+    "node": "6.9.x"
+  },
+  "cacheDirectories": [
+    "nextjs/node_modules"
+  ]
 }
