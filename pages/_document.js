@@ -12,7 +12,7 @@ class Wrariza extends Document {
     return (
       <html>
         <Head>
-          <title>Wrariza</title>
+          <title>WRARIZA</title>
           <link
             href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css"
             rel="stylesheet"
@@ -20,8 +20,27 @@ class Wrariza extends Document {
           <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
           <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet" />
           <style>{`
+            @keyframes themeAnimation{
+               0% {
+                 background-color: black;
+               }
+               99%{
+                 background-color: black;
+                 color: white;
+               }
+               100%{
+                 background-color: white;
+                 color: black;
+               }
+            }
             body { 
-                background: #000;
+                background-color: black;
+                color: white;
+                animation: themeAnimation 3s forwards;
+            }
+            a{
+              color: white;
+              animation: themeAnimation 3s forwards;
             }
             `}</style>
         </Head>

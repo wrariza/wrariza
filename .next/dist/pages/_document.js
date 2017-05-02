@@ -68,7 +68,7 @@ var Wrariza = function (_Document) {
           fileName: _jsxFileName,
           lineNumber: 15
         }
-      }, 'Wrariza'), _react2.default.createElement('link', {
+      }, 'WRARIZA'), _react2.default.createElement('link', {
         href: 'https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css',
         rel: 'stylesheet',
         __source: {
@@ -88,20 +88,20 @@ var Wrariza = function (_Document) {
           fileName: _jsxFileName,
           lineNumber: 22
         }
-      }, '\n            body { \n                background: #000;\n            }\n            ')), _react2.default.createElement('body', {
+      }, '\n            @keyframes themeAnimation{\n               0% {\n                 background-color: black;\n               }\n               99%{\n                 background-color: black;\n                 color: white;\n               }\n               100%{\n                 background-color: white;\n                 color: black;\n               }\n            }\n            body { \n                background-color: black;\n                color: white;\n                animation: themeAnimation 3s forwards;\n            }\n            a{\n              color: white;\n              animation: themeAnimation 3s forwards;\n            }\n            ')), _react2.default.createElement('body', {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 28
+          lineNumber: 47
         }
       }, _react2.default.createElement(_document.Main, {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 29
+          lineNumber: 48
         }
       }), _react2.default.createElement(_document.NextScript, {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 30
+          lineNumber: 49
         }
       })));
     }
