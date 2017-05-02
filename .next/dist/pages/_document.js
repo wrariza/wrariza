@@ -88,7 +88,7 @@ var Wrariza = function (_Document) {
           fileName: _jsxFileName,
           lineNumber: 22
         }
-      }, '\n            @keyframes themeAnimation{\n               0% {\n                 background-color: black;\n               }\n               99%{\n                 background-color: black;\n                 color: white;\n               }\n               100%{\n                 background-color: white;\n                 color: black;\n               }\n            }\n            body { \n                background-color: black;\n                color: white;\n                animation: themeAnimation 3s forwards;\n            }\n            a{\n              color: white;\n              animation: themeAnimation 3s forwards;\n            }\n            ')), _react2.default.createElement('body', {
+      }, '\n            @keyframes themeAnimation{\n               0% {\n                 background-color: black;\n               }\n               99%{\n                 background-color: black;\n                 color: white;\n               }\n               100%{\n                 background-color: white;\n                 color: black;\n               }\n            }\n            body { \n                background-color: black;\n                color: white;\n                animation: themeAnimation 2.5s forwards;\n            }\n            a{\n              color: white;\n              animation: themeAnimation 2.5s forwards;\n            }\n            ')), _react2.default.createElement('body', {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 47

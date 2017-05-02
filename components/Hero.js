@@ -11,7 +11,7 @@ import NameAnimation from './NameAnimation.js'
 const GridHero = styled(Grid)`
   text-align: center;
   padding: 10px;
-  margin-top: 20%;
+  margin-top: 15%;
 `
 function Hero(props) {
     return(

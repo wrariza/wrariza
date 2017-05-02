@@ -6,6 +6,7 @@ import { linkedinSquare, github, graduationCap } from 'react-icons-kit/fa/'
 
 const Container = styled(Row)`
     width: 100%;
+    margin-top: 10px;
 `
 const Imgen = styled.div`
     width: 100px;
@@ -19,9 +20,11 @@ const Imgen = styled.div`
 
 const Info = styled(Row)`
     {
-        padding: 15px;
+        padding: 15px 0px 15px 2px;
         font-size: 10px;
         height: 50px;
+        display: flex;
+        justify-content: center;
     }
 `
 
@@ -30,7 +33,7 @@ function Perfil() {
        <Container xs={12}>
           <Col xs={4} xsOffset={4} >
             <Imgen></Imgen>
-            <Info center="xs">
+            <Info center="xs" center="lg">
                 <Col>
                     <a href="https://www.linkedin.com/in/wrariza/" target="_blank">
                         <Icon icon={linkedinSquare}/>

@@ -36,11 +36,11 @@ class Wrariza extends Document {
             body { 
                 background-color: black;
                 color: white;
-                animation: themeAnimation 3s forwards;
+                animation: themeAnimation 2.5s forwards;
             }
             a{
               color: white;
-              animation: themeAnimation 3s forwards;
+              animation: themeAnimation 2.5s forwards;
             }
             `}</style>
         </Head>
