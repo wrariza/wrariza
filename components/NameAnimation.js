@@ -41,5 +41,14 @@ const NameAnimation = styled.div`
   animation: ${Animation} 2s;
   text-decoration: none;
 `
-export default NameAnimation
+
+function Name (props) {
+  return(
+     <NameAnimation>
+       {props.name}
+     </NameAnimation>
+  )
+}
+
+export default Name
 

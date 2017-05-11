@@ -53,4 +53,13 @@ const LabelAnimation = styled.div`
   } 
 `
 
-export default LabelAnimation
+function Label(props) {
+  return(
+    <LabelAnimation>
+      {props.label}
+      <span className='corazon'> ♥ </span>:)
+    </LabelAnimation>
+  )
+}
+
+export default Label
