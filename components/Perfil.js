@@ -9,13 +9,13 @@ const Container = styled(Row)`
     margin-top: 10px;
 `
 const Imgen = styled.div`
-    width: 100px;
-    height: 100px;
+    width: 160px;
+    height: 160px;
     border-radius: 100%;
     background-image: url('https://scontent.feoh3-1.fna.fbcdn.net/v/t1.0-1/p160x160/15940564_10154248750450963_7834584716215511701_n.jpg?oh=0ede346e5d3b6f2bbbeaadad6dbf3b9a&oe=597A1CB4');
     margin: auto;
     background-repeat: no-repeat;
-    background-position: -24px 0px;
+    background-position: 0px 0px;
 `
 
 const Info = styled(Row)`

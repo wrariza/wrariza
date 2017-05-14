@@ -88,20 +88,20 @@ var Wrariza = function (_Document) {
           fileName: _jsxFileName,
           lineNumber: 22
         }
-      }, '\n            @keyframes themeAnimation{\n               0% {\n                 background-color: black;\n               }\n               99%{\n                 background-color: black;\n                 color: white;\n               }\n               100%{\n                 background-color: white;\n                 color: black;\n               }\n            }\n            body { \n                background-color: black;\n                color: white;\n                animation: themeAnimation 2.5s forwards;\n            }\n            a{\n              color: white;\n              animation: themeAnimation 2.5s forwards;\n            }\n            ')), _react2.default.createElement('body', {
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 47
-        }
-      }, _react2.default.createElement(_document.Main, {
+      }, '\n            @keyframes themeAnimation{\n               0% {\n                 background-color: black;\n               }\n               99%{\n                 background-color: black;\n                 color: white;\n               }\n               100%{\n                 background-color: white;\n                 color: black;\n               }\n            }\n            body { \n                font-family: Quicksand;\n                background-color: black;\n                color: white;\n                animation: themeAnimation 2.5s forwards;\n            }\n            a{\n              color: white;\n              animation: themeAnimation 2.5s forwards;\n            }\n            ')), _react2.default.createElement('body', {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 48
         }
-      }), _react2.default.createElement(_document.NextScript, {
+      }, _react2.default.createElement(_document.Main, {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 49
+        }
+      }), _react2.default.createElement(_document.NextScript, {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 50
         }
       })));
     }

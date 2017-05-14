@@ -34,6 +34,7 @@ class Wrariza extends Document {
                }
             }
             body { 
+                font-family: Quicksand;
                 background-color: black;
                 color: white;
                 animation: themeAnimation 2.5s forwards;
