@@ -14,8 +14,19 @@ const Imgen = styled.div`
     border-radius: 100%;
     background-image: url('https://scontent.feoh3-1.fna.fbcdn.net/v/t1.0-1/p160x160/15940564_10154248750450963_7834584716215511701_n.jpg?oh=0ede346e5d3b6f2bbbeaadad6dbf3b9a&oe=597A1CB4');
     margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
     background-repeat: no-repeat;
     background-position: 0px 0px;
+    color: transparent;
+    margin: auto;
+
+    &:hover {
+        opacity: 0.5;
+        color: white;
+    }
 `
 
 const Info = styled(Row)`
@@ -32,7 +43,7 @@ function Perfil() {
     return(
        <Container xs={12}>
           <Col xs={4} xsOffset={4} >
-            <Imgen></Imgen>
+            <Imgen>WILLIAM RICARDO ARIZA VÉLEZ</Imgen>
             <Info center="xs" center="lg">
                 <Col>
                     <a href="https://www.linkedin.com/in/wrariza/" target="_blank">
