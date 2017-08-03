@@ -44,7 +44,7 @@ var _Perfil2 = _interopRequireDefault(_Perfil);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var _jsxFileName = '/Users/wrariza/MEGA/apps/wrariza/pages/index.js?entry';
+var _jsxFileName = 'D:\\apps\\wrariza\\pages\\index.js?entry';
 
 
 var Home = function (_Component) {

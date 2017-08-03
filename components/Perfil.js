@@ -12,7 +12,7 @@ const Imgen = styled.div`
     width: 160px;
     height: 160px;
     border-radius: 100%;
-    background-image: url('https://scontent.feoh3-1.fna.fbcdn.net/v/t1.0-1/p160x160/15940564_10154248750450963_7834584716215511701_n.jpg?oh=0ede346e5d3b6f2bbbeaadad6dbf3b9a&oe=597A1CB4');
+    background-image: url('https://scontent-bog1-1.xx.fbcdn.net/v/t1.0-1/p160x160/15940564_10154248750450963_7834584716215511701_n.jpg?oh=9143e27a317004b3df7c4ec9359e5426&oe=59F0C3B4');
     margin: auto;
     display: flex;
     justify-content: center;

@@ -28,7 +28,7 @@ var _react = require('react');
 
 var _react2 = _interopRequireDefault(_react);
 
-var _document = require('next/dist/server/document.js');
+var _document = require('next\\dist\\server\\document.js');
 
 var _document2 = _interopRequireDefault(_document);
 
@@ -38,7 +38,7 @@ var _styledComponents2 = _interopRequireDefault(_styledComponents);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var _jsxFileName = '/Users/wrariza/MEGA/apps/wrariza/pages/_document.js?entry';
+var _jsxFileName = 'D:\\apps\\wrariza\\pages\\_document.js?entry';
 
 
 var Wrariza = function (_Document) {
