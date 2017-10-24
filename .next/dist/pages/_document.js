@@ -28,7 +28,7 @@ var _react = require('react');
 
 var _react2 = _interopRequireDefault(_react);
 
-var _document = require('next\\dist\\server\\document.js');
+var _document = require('next/dist/server/document.js');
 
 var _document2 = _interopRequireDefault(_document);
 
@@ -38,7 +38,7 @@ var _styledComponents2 = _interopRequireDefault(_styledComponents);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var _jsxFileName = 'D:\\apps\\wrariza\\pages\\_document.js?entry';
+var _jsxFileName = '/Users/wrariza/MEGA/apps/wrariza-co/pages/_document.js?entry';
 
 
 var Wrariza = function (_Document) {
@@ -88,20 +88,20 @@ var Wrariza = function (_Document) {
           fileName: _jsxFileName,
           lineNumber: 22
         }
-      }, '\n            @keyframes themeAnimation{\n               0% {\n                 background-color: black;\n               }\n               99%{\n                 background-color: black;\n                 color: white;\n               }\n               100%{\n                 background-color: white;\n                 color: black;\n               }\n            }\n            body { \n                font-family: Quicksand;\n                background-color: black;\n                color: white;\n                animation: themeAnimation 2.5s forwards;\n            }\n            a{\n              color: white;\n              animation: themeAnimation 2.5s forwards;\n            }\n            ')), _react2.default.createElement('body', {
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 48
-        }
-      }, _react2.default.createElement(_document.Main, {
+      }, '\n            @keyframes themeAnimation{\n               0% {\n                 background-color: black;\n                 color: black;\n               }\n               99%{\n                 background-color: black;\n                 color: white;\n               }\n               100%{\n                 background-color: white;\n                 color: black;\n               }\n            }\n            body { \n                font-family: Quicksand;\n                background-color: black;\n                color: white;\n                animation: themeAnimation 2.5s forwards;\n            }\n            a{\n              color: white;\n              animation: themeAnimation 2.5s forwards;\n            }\n            ')), _react2.default.createElement('body', {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 49
         }
-      }), _react2.default.createElement(_document.NextScript, {
+      }, _react2.default.createElement(_document.Main, {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 50
+        }
+      }), _react2.default.createElement(_document.NextScript, {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 51
         }
       })));
     }

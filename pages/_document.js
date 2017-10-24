@@ -23,6 +23,7 @@ class Wrariza extends Document {
             @keyframes themeAnimation{
                0% {
                  background-color: black;
+                 color: black;
                }
                99%{
                  background-color: black;

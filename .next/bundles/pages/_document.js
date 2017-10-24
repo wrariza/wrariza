@@ -47,7 +47,7 @@ var _styledComponents2 = _interopRequireDefault(_styledComponents);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var _jsxFileName = 'D:\\apps\\wrariza\\pages\\_document.js?entry';
+var _jsxFileName = '/Users/wrariza/MEGA/apps/wrariza-co/pages/_document.js?entry';
 
 
 var Wrariza = function (_Document) {
@@ -97,20 +97,20 @@ var Wrariza = function (_Document) {
           fileName: _jsxFileName,
           lineNumber: 22
         }
-      }, '\n            @keyframes themeAnimation{\n               0% {\n                 background-color: black;\n               }\n               99%{\n                 background-color: black;\n                 color: white;\n               }\n               100%{\n                 background-color: white;\n                 color: black;\n               }\n            }\n            body { \n                font-family: Quicksand;\n                background-color: black;\n                color: white;\n                animation: themeAnimation 2.5s forwards;\n            }\n            a{\n              color: white;\n              animation: themeAnimation 2.5s forwards;\n            }\n            ')), _react2.default.createElement('body', {
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 48
-        }
-      }, _react2.default.createElement(_document.Main, {
+      }, '\n            @keyframes themeAnimation{\n               0% {\n                 background-color: black;\n                 color: black;\n               }\n               99%{\n                 background-color: black;\n                 color: white;\n               }\n               100%{\n                 background-color: white;\n                 color: black;\n               }\n            }\n            body { \n                font-family: Quicksand;\n                background-color: black;\n                color: white;\n                animation: themeAnimation 2.5s forwards;\n            }\n            a{\n              color: white;\n              animation: themeAnimation 2.5s forwards;\n            }\n            ')), _react2.default.createElement('body', {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 49
         }
-      }), _react2.default.createElement(_document.NextScript, {
+      }, _react2.default.createElement(_document.Main, {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 50
+        }
+      }), _react2.default.createElement(_document.NextScript, {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 51
         }
       })));
     }
@@ -121,7 +121,7 @@ var Wrariza = function (_Document) {
 
 exports.default = Wrariza;
 
- ;(function register() { /* react-hot-loader/webpack */ if (true) { if (typeof __REACT_HOT_LOADER__ === 'undefined') { return; } if (typeof module.exports === 'function') { __REACT_HOT_LOADER__.register(module.exports, 'module.exports', "D:\\apps\\wrariza\\pages\\_document.js"); return; } for (var key in module.exports) { if (!Object.prototype.hasOwnProperty.call(module.exports, key)) { continue; } var namedExport = void 0; try { namedExport = module.exports[key]; } catch (err) { continue; } __REACT_HOT_LOADER__.register(namedExport, key, "D:\\apps\\wrariza\\pages\\_document.js"); } } })();
+ ;(function register() { /* react-hot-loader/webpack */ if (true) { if (typeof __REACT_HOT_LOADER__ === 'undefined') { return; } if (typeof module.exports === 'function') { __REACT_HOT_LOADER__.register(module.exports, 'module.exports', "/Users/wrariza/MEGA/apps/wrariza-co/pages/_document.js"); return; } for (var key in module.exports) { if (!Object.prototype.hasOwnProperty.call(module.exports, key)) { continue; } var namedExport = void 0; try { namedExport = module.exports[key]; } catch (err) { continue; } __REACT_HOT_LOADER__.register(namedExport, key, "/Users/wrariza/MEGA/apps/wrariza-co/pages/_document.js"); } } })();
     (function (Component, route) {
       if (false) return
       if (false) return
@@ -158,7 +158,7 @@ module.exports = __webpack_require__(236);
 /***/ })
 
 },[561]);
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9wYWdlcy9fZG9jdW1lbnQuanM/NjI3ZDBhYSJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7QUFBZ0I7Ozs7QUFJZDs7OztBQUdLOzs7Ozs7Ozs7SUFFRDs7Ozs7Ozs7Ozs7NkJBRUY7NkJBQ0U7O29CQUFBO3NCQUNFO0FBREY7QUFBQSx5QkFDRzs7b0JBQUQ7c0JBQ0U7QUFERjtBQUFBLHlCQUNFOztvQkFBQTtzQkFBQTtBQUFBO0FBQUEsU0FDQTtjQUVFO2FBQUk7O29CQUZOO3NCQUlBO0FBSkE7QUFDRSxrREFHSSxNQUFLLFlBQVcsU0FBUTtvQkFBOUI7c0JBQ0E7QUFEQTtrREFDTSxNQUFLLHFEQUFvRCxLQUFJO29CQUFuRTtzQkFDQTtBQURBOzBCQUNBOztvQkFBQTtzQkFBQTtBQUFBO0FBQUEsU0EwQkY7O29CQUFBO3NCQUNJO0FBREo7QUFBQSx5QkFDSzs7b0JBQUQ7c0JBQ0E7QUFEQTtBQUFBLDBCQUNDOztvQkFBRDtzQkFJVDtBQUpTO0FBQUE7Ozs7O0FBT1o7O2tCQUFlLFEiLCJmaWxlIjoiYnVuZGxlc1xccGFnZXNcXF9kb2N1bWVudC5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCwgeyBDb21wb25lbnQgfSBmcm9tICdyZWFjdCc7XHJcbmltcG9ydCBEb2N1bWVudCwge1xyXG4gIE1haW4sXHJcbiAgTmV4dFNjcmlwdCxcclxuICBIZWFkLFxyXG59IGZyb20gJ25leHQvZG9jdW1lbnQnO1xyXG5cclxuaW1wb3J0IHN0eWxlZCBmcm9tICdzdHlsZWQtY29tcG9uZW50cydcclxuXHJcbmNsYXNzIFdyYXJpemEgZXh0ZW5kcyBEb2N1bWVudCB7XHJcbiAgcmVuZGVyKCkge1xyXG4gICAgcmV0dXJuIChcclxuICAgICAgPGh0bWw+XHJcbiAgICAgICAgPEhlYWQ+XHJcbiAgICAgICAgICA8dGl0bGU+V1JBUklaQTwvdGl0bGU+XHJcbiAgICAgICAgICA8bGlua1xyXG4gICAgICAgICAgICBocmVmPVwiaHR0cHM6Ly9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvbm9ybWFsaXplLzUuMC4wL25vcm1hbGl6ZS5taW4uY3NzXCJcclxuICAgICAgICAgICAgcmVsPVwic3R5bGVzaGVldFwiXHJcbiAgICAgICAgICAvPlxyXG4gICAgICAgICAgPG1ldGEgbmFtZT1cInZpZXdwb3J0XCIgY29udGVudD1cIndpZHRoPWRldmljZS13aWR0aCwgaW5pdGlhbC1zY2FsZT0xLCB1c2VyLXNjYWxhYmxlPW5vXCIgLz5cclxuICAgICAgICAgIDxsaW5rIGhyZWY9XCJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9UXVpY2tzYW5kXCIgcmVsPVwic3R5bGVzaGVldFwiIC8+XHJcbiAgICAgICAgICA8c3R5bGU+e2BcclxuICAgICAgICAgICAgQGtleWZyYW1lcyB0aGVtZUFuaW1hdGlvbntcclxuICAgICAgICAgICAgICAgMCUge1xyXG4gICAgICAgICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6IGJsYWNrO1xyXG4gICAgICAgICAgICAgICB9XHJcbiAgICAgICAgICAgICAgIDk5JXtcclxuICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiBibGFjaztcclxuICAgICAgICAgICAgICAgICBjb2xvcjogd2hpdGU7XHJcbiAgICAgICAgICAgICAgIH1cclxuICAgICAgICAgICAgICAgMTAwJXtcclxuICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZTtcclxuICAgICAgICAgICAgICAgICBjb2xvcjogYmxhY2s7XHJcbiAgICAgICAgICAgICAgIH1cclxuICAgICAgICAgICAgfVxyXG4gICAgICAgICAgICBib2R5IHsgXHJcbiAgICAgICAgICAgICAgICBmb250LWZhbWlseTogUXVpY2tzYW5kO1xyXG4gICAgICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogYmxhY2s7XHJcbiAgICAgICAgICAgICAgICBjb2xvcjogd2hpdGU7XHJcbiAgICAgICAgICAgICAgICBhbmltYXRpb246IHRoZW1lQW5pbWF0aW9uIDIuNXMgZm9yd2FyZHM7XHJcbiAgICAgICAgICAgIH1cclxuICAgICAgICAgICAgYXtcclxuICAgICAgICAgICAgICBjb2xvcjogd2hpdGU7XHJcbiAgICAgICAgICAgICAgYW5pbWF0aW9uOiB0aGVtZUFuaW1hdGlvbiAyLjVzIGZvcndhcmRzO1xyXG4gICAgICAgICAgICB9XHJcbiAgICAgICAgICAgIGB9PC9zdHlsZT5cclxuICAgICAgICA8L0hlYWQ+XHJcbiAgICAgICAgPGJvZHk+XHJcbiAgICAgICAgICAgIDxNYWluIC8+XHJcbiAgICAgICAgICAgIDxOZXh0U2NyaXB0IC8+XHJcbiAgICAgICAgPC9ib2R5PlxyXG4gICAgICA8L2h0bWw+XHJcbiAgICApXHJcbiAgfVxyXG59XHJcblxyXG5leHBvcnQgZGVmYXVsdCBXcmFyaXphXG5cblxuLy8gV0VCUEFDSyBGT09URVIgLy9cbi8vIC4vcGFnZXMvX2RvY3VtZW50LmpzP2VudHJ5Il0sInNvdXJjZVJvb3QiOiIifQ==
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9wYWdlcy9fZG9jdW1lbnQuanM/MjI2ODJjMyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7QUFBZ0I7Ozs7QUFJZDs7OztBQUdLOzs7Ozs7Ozs7SUFFRDs7Ozs7Ozs7Ozs7NkJBRUY7NkJBQ0U7O29CQUFBO3NCQUNFO0FBREY7QUFBQSx5QkFDRzs7b0JBQUQ7c0JBQ0U7QUFERjtBQUFBLHlCQUNFOztvQkFBQTtzQkFBQTtBQUFBO0FBQUEsU0FDQTtjQUVFO2FBQUk7O29CQUZOO3NCQUlBO0FBSkE7QUFDRSxrREFHSSxNQUFLLFlBQVcsU0FBUTtvQkFBOUI7c0JBQ0E7QUFEQTtrREFDTSxNQUFLLHFEQUFvRCxLQUFJO29CQUFuRTtzQkFDQTtBQURBOzBCQUNBOztvQkFBQTtzQkFBQTtBQUFBO0FBQUEsU0EyQkY7O29CQUFBO3NCQUNJO0FBREo7QUFBQSx5QkFDSzs7b0JBQUQ7c0JBQ0E7QUFEQTtBQUFBLDBCQUNDOztvQkFBRDtzQkFJVDtBQUpTO0FBQUE7Ozs7O0FBT1o7O2tCQUFlLFEiLCJmaWxlIjoiYnVuZGxlcy9wYWdlcy9fZG9jdW1lbnQuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QsIHsgQ29tcG9uZW50IH0gZnJvbSAncmVhY3QnO1xuaW1wb3J0IERvY3VtZW50LCB7XG4gIE1haW4sXG4gIE5leHRTY3JpcHQsXG4gIEhlYWQsXG59IGZyb20gJ25leHQvZG9jdW1lbnQnO1xuXG5pbXBvcnQgc3R5bGVkIGZyb20gJ3N0eWxlZC1jb21wb25lbnRzJ1xuXG5jbGFzcyBXcmFyaXphIGV4dGVuZHMgRG9jdW1lbnQge1xuICByZW5kZXIoKSB7XG4gICAgcmV0dXJuIChcbiAgICAgIDxodG1sPlxuICAgICAgICA8SGVhZD5cbiAgICAgICAgICA8dGl0bGU+V1JBUklaQTwvdGl0bGU+XG4gICAgICAgICAgPGxpbmtcbiAgICAgICAgICAgIGhyZWY9XCJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy9ub3JtYWxpemUvNS4wLjAvbm9ybWFsaXplLm1pbi5jc3NcIlxuICAgICAgICAgICAgcmVsPVwic3R5bGVzaGVldFwiXG4gICAgICAgICAgLz5cbiAgICAgICAgICA8bWV0YSBuYW1lPVwidmlld3BvcnRcIiBjb250ZW50PVwid2lkdGg9ZGV2aWNlLXdpZHRoLCBpbml0aWFsLXNjYWxlPTEsIHVzZXItc2NhbGFibGU9bm9cIiAvPlxuICAgICAgICAgIDxsaW5rIGhyZWY9XCJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9UXVpY2tzYW5kXCIgcmVsPVwic3R5bGVzaGVldFwiIC8+XG4gICAgICAgICAgPHN0eWxlPntgXG4gICAgICAgICAgICBAa2V5ZnJhbWVzIHRoZW1lQW5pbWF0aW9ue1xuICAgICAgICAgICAgICAgMCUge1xuICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiBibGFjaztcbiAgICAgICAgICAgICAgICAgY29sb3I6IGJsYWNrO1xuICAgICAgICAgICAgICAgfVxuICAgICAgICAgICAgICAgOTkle1xuICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiBibGFjaztcbiAgICAgICAgICAgICAgICAgY29sb3I6IHdoaXRlO1xuICAgICAgICAgICAgICAgfVxuICAgICAgICAgICAgICAgMTAwJXtcbiAgICAgICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogd2hpdGU7XG4gICAgICAgICAgICAgICAgIGNvbG9yOiBibGFjaztcbiAgICAgICAgICAgICAgIH1cbiAgICAgICAgICAgIH1cbiAgICAgICAgICAgIGJvZHkgeyBcbiAgICAgICAgICAgICAgICBmb250LWZhbWlseTogUXVpY2tzYW5kO1xuICAgICAgICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6IGJsYWNrO1xuICAgICAgICAgICAgICAgIGNvbG9yOiB3aGl0ZTtcbiAgICAgICAgICAgICAgICBhbmltYXRpb246IHRoZW1lQW5pbWF0aW9uIDIuNXMgZm9yd2FyZHM7XG4gICAgICAgICAgICB9XG4gICAgICAgICAgICBhe1xuICAgICAgICAgICAgICBjb2xvcjogd2hpdGU7XG4gICAgICAgICAgICAgIGFuaW1hdGlvbjogdGhlbWVBbmltYXRpb24gMi41cyBmb3J3YXJkcztcbiAgICAgICAgICAgIH1cbiAgICAgICAgICAgIGB9PC9zdHlsZT5cbiAgICAgICAgPC9IZWFkPlxuICAgICAgICA8Ym9keT5cbiAgICAgICAgICAgIDxNYWluIC8+XG4gICAgICAgICAgICA8TmV4dFNjcmlwdCAvPlxuICAgICAgICA8L2JvZHk+XG4gICAgICA8L2h0bWw+XG4gICAgKVxuICB9XG59XG5cbmV4cG9ydCBkZWZhdWx0IFdyYXJpemFcblxuXG4vLyBXRUJQQUNLIEZPT1RFUiAvL1xuLy8gLi9wYWdlcy9fZG9jdW1lbnQuanM/ZW50cnkiXSwic291cmNlUm9vdCI6IiJ9
             return { page: comp.default }
           })
         
